@@ -53,3 +53,8 @@ git push origin master
 ## 预览前端学习技术学习
 
 ![路线图](./roadmap.jpeg)
+
+### 技术改变世界，阅读塑造人生。
+
+> The computer is my land.
+
