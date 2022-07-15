@@ -50,9 +50,6 @@ git push origin master
 
 欢迎大家贡献学习资源 :heart:
 
-## 预览
+## 预览前端学习技术学习
 
 ![路线图](./roadmap.jpeg)
-
-
-
